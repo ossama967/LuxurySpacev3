@@ -1,1 +1,9 @@
-/*  */
+/*Footer */
+
+footer {
+    margin-bottom:0;
+    bottom:0;
+    position: fixed;
+    background-color: black;
+    width:100%;
+}
